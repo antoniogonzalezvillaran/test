@@ -1,11 +1,10 @@
 package prueba;
 
-public class PruebaEntornoGit {
+public class pruebaEntornoGIT2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hola Mundo");
-		
+
 	}
 
 }
